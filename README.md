@@ -31,4 +31,34 @@ plt.style.use('ggplot') </br>
 
 
 
+# Q1: Which regions have most pickups and drop-offs?
+
+![popular_zones](https://user-images.githubusercontent.com/44877995/120296520-e1ab0600-c2d0-11eb-80d8-d4ffc6f9758d.JPG)
+![brgh](https://user-images.githubusercontent.com/44877995/120296609-f7203000-c2d0-11eb-91fb-a35e55de4d30.JPG)
+
+
+# Q2: When are the peak hours and off-peak hours for taking taxi?
+
+![graphics](https://user-images.githubusercontent.com/44877995/120296741-17e88580-c2d1-11eb-802e-9f1e9ff8d87c.JPG)
+
+
+# Q3: What are the differences between short and long distance trips of taking taxi?
+
+
+![trips_analysis_graphic](https://user-images.githubusercontent.com/44877995/120296859-38184480-c2d1-11eb-874a-b8d58540b90d.JPG)
+
+
+
+![zones](https://user-images.githubusercontent.com/44877995/120296964-52522280-c2d1-11eb-9490-5fc9d3057ce8.JPG)
+
+
+
+
+
+
+
+
+
+
+
 
