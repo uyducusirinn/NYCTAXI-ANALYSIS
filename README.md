@@ -1,3 +1,12 @@
+#GROUP MEMBERS
+
+## 1-MELİH ALTAY  </br>
+## 2-OĞUZHAN KANSU  </br>
+## 3-HAMDİ SERDAR KARAGÖZLER  </br>
+## 4-OĞUZHAN TAÇTAN  </br>
+## FERDİ ÖZGÜR ORHON  </br>
+
+
 # NYCTAXI-ANALYSIS
 Bu proje New York Taksi verilerinin 2017 yılındaki kapsamlı analizini ele almaktadır.
 
