@@ -27,7 +27,7 @@ plt.style.use('ggplot')
 ##Here I will use SQLAlchemy, which is a Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
 
 
-![location data] (https://github.com/uyducusirinn/NYCTAXI-ANALYSIS/blob/main/IMG/location.JPG)
+![location](https://user-images.githubusercontent.com/44877995/120295466-d1465b80-c2cf-11eb-8e67-d2f5f6ba2d47.JPG)
 
 
 
