@@ -7,21 +7,21 @@ In this document, I will walk through the analysis of New York City Taxi Data (w
 
 # The following libraries are the basic libraries for data analytics.
 
-import pandas as pd
-import numpy as np
-import urllib.request
-import zipfile
-import random
-import itertools
-import math
+import pandas as pd </br>
+import numpy as np  </br>
+import urllib.request </br>
+import zipfile </br>
+import random </br>
+import itertools </br>
+import math </br>
 
-import shapefile
-from shapely.geometry import Polygon
-from descartes.patch import PolygonPatch
-import matplotlib as mpl
-import matplotlib.pyplot as plt
-plt.style.use('ggplot')
-%matplotlib inline
+import shapefile </br>
+from shapely.geometry import Polygon </br>
+from descartes.patch import PolygonPatch </br>
+import matplotlib as mpl </br>
+import matplotlib.pyplot as plt </br>
+plt.style.use('ggplot') </br>
+%matplotlib inline </br>
 
 ## Furthermore, to deal with the large scale of data (4GB for 6 months in this case), a database is needed. 
 ## Here I will use SQLAlchemy, which is a Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
