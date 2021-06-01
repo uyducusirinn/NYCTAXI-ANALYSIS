@@ -1,18 +1,16 @@
-#GROUP MEMBERS
-
-## 1-MELİH ALTAY  </br>
-## 2-OĞUZHAN KANSU  </br>
-## 3-HAMDİ SERDAR KARAGÖZLER  </br>
-## 4-OĞUZHAN TAÇTAN  </br>
-## 5-FERDİ ÖZGÜR ORHON  </br>
-
-
 # NYCTAXI-ANALYSIS
 Bu proje New York Taksi verilerinin 2017 yılındaki kapsamlı analizini ele almaktadır.
 
 
 In this document, I will walk through the analysis of New York City Taxi Data (with download link shown in Section II) using Python. 6 months of “Yellow” label data will be loaded and analyzed.
 
+#GROUP MEMBERS
+
+### 1-MELİH ALTAY  </br>
+### 2-OĞUZHAN KANSU  </br>
+### 3-HAMDİ SERDAR KARAGÖZLER  </br>
+### 4-OĞUZHAN TAÇTAN  </br>
+### 5-FERDİ ÖZGÜR ORHON  </br>
 
 # The following libraries are the basic libraries for data analytics.
 
