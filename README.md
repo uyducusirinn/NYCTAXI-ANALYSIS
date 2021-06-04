@@ -10,7 +10,7 @@ In this document, I will walk through the analysis of New York City Taxi Data (w
 ### 2-OĞUZHAN KANSU  </br>
 ### 3-HAMDİ SERDAR KARAGÖZLER  </br>
 ### 4-OĞUZHAN TAÇTAN  </br>
-### 5-FERDİ ÖZGÜR ORHON  </br>
+### 5-FEVZİ ÖZGÜR ORHON  </br>
 
 
 ## Furthermore, to deal with the large scale of data (4GB for 6 months in this case), a database is needed. 
