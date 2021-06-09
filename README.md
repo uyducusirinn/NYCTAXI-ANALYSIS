@@ -49,9 +49,9 @@ In this document, I will walk through the analysis of New York City Taxi Data (w
 
 
 
+# Distance Trip Graphics
 
-
-
+![dist_trip](https://user-images.githubusercontent.com/44877995/121420970-58519e80-c976-11eb-9e62-026ad7f00292.JPG)
 
 
 
