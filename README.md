@@ -46,6 +46,14 @@ In this document, I will walk through the analysis of New York City Taxi Data (w
 
 ![payment_type](https://user-images.githubusercontent.com/44877995/121420669-09a40480-c976-11eb-851d-cd5f800bd1ae.JPG)
 
+Payment_type is a numeric code signifying how the passenger paid for the trip:
+
+1=Credit card
+2=Cash
+3=No charge
+4=Dispute
+Passengers of long trips paid a little more frequent in credit card and a little less frequent in cash comparing to that of short trips.
+
 
 
 
