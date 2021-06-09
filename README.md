@@ -31,6 +31,11 @@ In this document, I will walk through the analysis of New York City Taxi Data (w
 
 ![graphics](https://user-images.githubusercontent.com/44877995/120296741-17e88580-c2d1-11eb-802e-9f1e9ff8d87c.JPG)
 
+As you can see, according to the NYC Taxi records from 2017 January to 2017 June, it is found that
+
+The peak hours are around 6PM ~ 7PM.
+The off-peak hours are around 5AM.
+
 
 # Q3: What are the differences between short and long distance trips of taking taxi?
 
