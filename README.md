@@ -54,4 +54,12 @@ In this document, I will walk through the analysis of New York City Taxi Data (w
 ![dist_trip](https://user-images.githubusercontent.com/44877995/121420970-58519e80-c976-11eb-9e62-026ad7f00292.JPG)
 
 
+# 3 Longest Trips
+
+## When we list the 3 longest trips, we conclude that the longer trips are towards the airport.
+
+![long_trips](https://user-images.githubusercontent.com/44877995/121421197-90f17800-c976-11eb-8a6e-89d22320aa14.JPG)
+
+
+
 
