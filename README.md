@@ -42,6 +42,9 @@ In this document, I will walk through the analysis of New York City Taxi Data (w
 ![zones](https://user-images.githubusercontent.com/44877995/120296964-52522280-c2d1-11eb-9490-5fc9d3057ce8.JPG)
 
 
+# Payment Types Analysis
+
+![payment_type](https://user-images.githubusercontent.com/44877995/121420669-09a40480-c976-11eb-851d-cd5f800bd1ae.JPG)
 
 
 
