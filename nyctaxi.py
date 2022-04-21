@@ -545,7 +545,7 @@ There are more drop-offs at Newark Airport than JFK Airport in long trips.
 For long trips, JFK Airport and LaGuardia Airport are the most popular pickup zones.
 
 Lastly, we compare short trips and long trips in some other aspects.
-"""
+""" 
 
 for attr in ["passenger_count", "RatecodeID", "payment_type"]:
     diff_short_long_trip_on(attr, rpr="proportion", kind='bar')
